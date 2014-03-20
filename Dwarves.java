@@ -6,6 +6,6 @@ public class Dwarves extends Enemies {
     public void doTick(Timer t) {
         throw new UnsupportedOperationException("Not supported yet.");
     }
-    //próba1
+    //próba2
 }
 
